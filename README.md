@@ -1,6 +1,10 @@
 ### Dr. Pete Maynard
 _Security Researcher - ICS - Networking // Privacy Advocate // Open-Source Enthusiast_
 
+**Security Modelling**
+* https://github.com/CardiffUniCOMSC/SecMoF
+* https://github.com/PMaynard/smc
+
 **Testbeds**
 * https://github.com/PMaynard/ICS-TestBed-Framework
 * https://github.com/PMaynard/ndn-water-treatment-testbed
